@@ -1,4 +1,4 @@
-# Bootcamp Data Analytics - 2. Banco de Dados
+# Banco de Dados
 Este repositório contém a resolução dos exercícios de banco de dados do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/). Este módulo explorou os fundamentos de banco de dados, tais como manipulação de dados e execução de consultas e análises. Os exercícios incluem tarefas como criação de tabelas, inserção de dados e consultas complexas.
 
 ## Estrutura do Repositório

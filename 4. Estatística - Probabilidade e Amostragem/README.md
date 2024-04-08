@@ -1,4 +1,4 @@
-# Bootcamp Data Analytics - 4. Estatística - Probabilidade e Amostragem
+# Estatística - Probabilidade e Amostragem
 
 Este repositório contém a resolução dos exercícios propostos no desafio final do módulo **Estatística: Probabilidade e Amostragem** do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/). O foco principal desses exercícios é a análise e interpretação dos dados utilizando uma base fictícia que representa uma amostra de dados da população brasileira.
 
