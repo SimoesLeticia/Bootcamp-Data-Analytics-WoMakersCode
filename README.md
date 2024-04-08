@@ -22,7 +22,7 @@ Este projeto utiliza as seguintes bibliotecas:
 - [NumPy](https://numpy.org/): Para cálculos numéricos e operações matemáticas.
 - [Matplotlib](https://matplotlib.org/): Para criar gráficos e visualizações dos dados.
 - [Seaborn](https://seaborn.pydata.org/): Para criar visualizações estatísticas de forma simples e atraente.
-- [sqlite3](https://docs.python.org/3/library/sqlite3.html): Para conexão com banco de dados.
+- [Sqlite3](https://docs.python.org/3/library/sqlite3.html): Para conexão com banco de dados.
 
 ## Contribuições
 
