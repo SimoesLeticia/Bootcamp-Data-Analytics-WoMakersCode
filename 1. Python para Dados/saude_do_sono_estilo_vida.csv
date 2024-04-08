@@ -1,0 +1,374 @@
+ID,Gênero,Idade,Ocupação,Duração do sono,Qualidade do sono,Nível de atividade física,Nível de estresse,Categoria BMI,Pressão sanguíneaaaa,Frequência cardíaca,Passos diários,Distúrbio do sono
+1,Homem,27,Eng. de Software,6.1,6,42,6,Sobrepeso,126/83,77,4200,Nenhuma
+2,Homem,28,Médico(a),6.2,6,60,8,Normal,125/80,75,10000,Nenhuma
+3,Homem,28,Médico(a),6.2,6,60,8,Normal,125/80,75,10000,Nenhuma
+4,Homem,28,Representante de Vendas,5.9,4,30,8,Obesidade,140/90,85,3000,Apneia do sono
+5,Homem,28,Representante de Vendas,5.9,4,30,8,Obesidade,140/90,85,3000,Apneia do sono
+6,Homem,28,Eng. de Software,5.9,4,30,8,Obesidade,140/90,85,3000,Insônia
+7,Homem,29,Professor(a),6.3,6,40,7,Obesidade,140/90,82,3500,Insônia
+8,Homem,29,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+9,Homem,29,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+10,Homem,29,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+11,Homem,29,Médico(a),6.1,6,30,8,Normal,120/80,70,8000,Nenhuma
+12,Homem,29,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+13,Homem,29,Médico(a),6.1,6,30,8,Normal,120/80,70,8000,Nenhuma
+14,Homem,29,Médico(a),6.0,6,30,8,Normal,120/80,70,8000,Nenhuma
+15,Homem,29,Médico(a),6.0,6,30,8,Normal,120/80,70,8000,Nenhuma
+16,Homem,29,Médico(a),6.0,6,30,8,Normal,120/80,70,8000,Nenhuma
+17,Mulher,29,Enfermeiro(a),6.5,5,40,7,Peso normal,132/87,80,4000,Apneia do sono
+18,Homem,29,Médico(a),6.0,6,30,8,Normal,120/80,70,8000,Apneia do sono
+19,Mulher,29,Enfermeiro(a),6.5,5,40,7,Peso normal,132/87,80,4000,Insônia
+20,Homem,30,Médico(a),7.6,7,75,6,Normal,120/80,70,8000,Nenhuma
+21,Homem,30,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+22,Homem,30,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+23,Homem,30,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+24,Homem,30,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+25,Homem,30,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+26,Homem,30,Médico(a),7.9,7,75,6,Normal,120/80,70,8000,Nenhuma
+27,Homem,30,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+28,Homem,30,Médico(a),7.9,7,75,6,Normal,120/80,70,8000,Nenhuma
+29,Homem,30,Médico(a),7.9,7,75,6,Normal,120/80,70,8000,Nenhuma
+30,Homem,30,Médico(a),7.9,7,75,6,Normal,120/80,70,8000,Nenhuma
+31,Mulher,30,Enfermeiro(a),6.4,5,35,7,Peso normal,130/86,78,4100,Apneia do sono
+32,Mulher,30,Enfermeiro(a),6.4,5,35,7,Peso normal,130/86,78,4100,Insônia
+33,Mulher,31,Enfermeiro(a),7.9,8,75,4,Peso normal,117/76,69,6800,Nenhuma
+34,Homem,31,Médico(a),6.1,6,30,8,Normal,125/80,72,5000,Nenhuma
+35,Homem,31,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+36,Homem,31,Médico(a),6.1,6,30,8,Normal,125/80,72,5000,Nenhuma
+37,Homem,31,Médico(a),6.1,6,30,8,Normal,125/80,72,5000,Nenhuma
+38,Homem,31,Médico(a),7.6,7,75,6,Normal,120/80,70,8000,Nenhuma
+39,Homem,31,Médico(a),7.6,7,75,6,Normal,120/80,70,8000,Nenhuma
+40,Homem,31,Médico(a),7.6,7,75,6,Normal,120/80,70,8000,Nenhuma
+41,Homem,31,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+42,Homem,31,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+43,Homem,31,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+44,Homem,31,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+45,Homem,31,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+46,Homem,31,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+47,Homem,31,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+48,Homem,31,Médico(a),7.8,7,75,6,Normal,120/80,70,8000,Nenhuma
+49,Homem,31,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+50,Homem,31,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Apneia do sono
+51,Homem,32,Engenheiro(a),7.5,8,45,3,Normal,120/80,70,8000,Nenhuma
+52,Homem,32,Engenheiro(a),7.5,8,45,3,Normal,120/80,70,8000,Nenhuma
+53,Homem,32,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+54,Homem,32,Médico(a),7.6,7,75,6,Normal,120/80,70,8000,Nenhuma
+55,Homem,32,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+56,Homem,32,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+57,Homem,32,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+58,Homem,32,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+59,Homem,32,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+60,Homem,32,Médico(a),7.7,7,75,6,Normal,120/80,70,8000,Nenhuma
+61,Homem,32,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+62,Homem,32,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+63,Homem,32,Médico(a),6.2,6,30,8,Normal,125/80,72,5000,Nenhuma
+64,Homem,32,Médico(a),6.2,6,30,8,Normal,125/80,72,5000,Nenhuma
+65,Homem,32,Médico(a),6.2,6,30,8,Normal,125/80,72,5000,Nenhuma
+66,Homem,32,Médico(a),6.2,6,30,8,Normal,125/80,72,5000,Nenhuma
+67,Homem,32,Contador(a),7.2,8,50,6,Peso normal,118/76,68,7000,Nenhuma
+68,Homem,33,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Insônia
+69,Mulher,33,Cientista,6.2,6,50,6,Sobrepeso,128/85,76,5500,Nenhuma
+70,Mulher,33,Cientista,6.2,6,50,6,Sobrepeso,128/85,76,5500,Nenhuma
+71,Homem,33,Médico(a),6.1,6,30,8,Normal,125/80,72,5000,Nenhuma
+72,Homem,33,Médico(a),6.1,6,30,8,Normal,125/80,72,5000,Nenhuma
+73,Homem,33,Médico(a),6.1,6,30,8,Normal,125/80,72,5000,Nenhuma
+74,Homem,33,Médico(a),6.1,6,30,8,Normal,125/80,72,5000,Nenhuma
+75,Homem,33,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+76,Homem,33,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+77,Homem,33,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+78,Homem,33,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+79,Homem,33,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+80,Homem,33,Médico(a),6.0,6,30,8,Normal,125/80,72,5000,Nenhuma
+81,Mulher,34,Cientista,5.8,4,32,8,Sobrepeso,131/86,81,5200,Apneia do sono
+82,Mulher,34,Cientista,5.8,4,32,8,Sobrepeso,131/86,81,5200,Apneia do sono
+83,Homem,35,Professor(a),6.7,7,40,5,Sobrepeso,128/84,70,5600,Nenhuma
+84,Homem,35,Professor(a),6.7,7,40,5,Sobrepeso,128/84,70,5600,Nenhuma
+85,Homem,35,Eng. de Software,7.5,8,60,5,Peso normal,120/80,70,8000,Nenhuma
+86,Mulher,35,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+87,Homem,35,Engenheiro(a),7.2,8,60,4,Normal,125/80,65,5000,Nenhuma
+88,Homem,35,Engenheiro(a),7.2,8,60,4,Normal,125/80,65,5000,Nenhuma
+89,Homem,35,Engenheiro(a),7.3,8,60,4,Normal,125/80,65,5000,Nenhuma
+90,Homem,35,Engenheiro(a),7.3,8,60,4,Normal,125/80,65,5000,Nenhuma
+91,Homem,35,Engenheiro(a),7.3,8,60,4,Normal,125/80,65,5000,Nenhuma
+92,Homem,35,Engenheiro(a),7.3,8,60,4,Normal,125/80,65,5000,Nenhuma
+93,Homem,35,Eng. de Software,7.5,8,60,5,Peso normal,120/80,70,8000,Nenhuma
+94,Homem,35,Advogado(a),7.4,7,60,5,Obesidade,135/88,84,3300,Apneia do sono
+95,Mulher,36,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Insônia
+96,Mulher,36,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+97,Mulher,36,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+98,Mulher,36,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+99,Mulher,36,Professor(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+100,Mulher,36,Professor(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+101,Mulher,36,Professor(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+102,Mulher,36,Professor(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+103,Mulher,36,Professor(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+104,Homem,36,Professor(a),6.6,5,35,7,Sobrepeso,129/84,74,4800,Apneia do sono
+105,Mulher,36,Professor(a),7.2,8,60,4,Normal,115/75,68,7000,Apneia do sono
+106,Homem,36,Professor(a),6.6,5,35,7,Sobrepeso,129/84,74,4800,Insônia
+107,Mulher,37,Enfermeiro(a),6.1,6,42,6,Sobrepeso,126/83,77,4200,Nenhuma
+108,Homem,37,Engenheiro(a),7.8,8,70,4,Peso normal,120/80,68,7000,Nenhuma
+109,Homem,37,Engenheiro(a),7.8,8,70,4,Peso normal,120/80,68,7000,Nenhuma
+110,Homem,37,Advogado(a),7.4,8,60,5,Normal,130/85,68,8000,Nenhuma
+111,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+112,Homem,37,Advogado(a),7.4,8,60,5,Normal,130/85,68,8000,Nenhuma
+113,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+114,Homem,37,Advogado(a),7.4,8,60,5,Normal,130/85,68,8000,Nenhuma
+115,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+116,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+117,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+118,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+119,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+120,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+121,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+122,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+123,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+124,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+125,Mulher,37,Contador(a),7.2,8,60,4,Normal,115/75,68,7000,Nenhuma
+126,Mulher,37,Enfermeiro(a),7.5,8,60,4,Peso normal,120/80,70,8000,Nenhuma
+127,Homem,38,Advogado(a),7.3,8,60,5,Normal,130/85,68,8000,Nenhuma
+128,Mulher,38,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+129,Homem,38,Advogado(a),7.3,8,60,5,Normal,130/85,68,8000,Nenhuma
+130,Homem,38,Advogado(a),7.3,8,60,5,Normal,130/85,68,8000,Nenhuma
+131,Mulher,38,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+132,Homem,38,Advogado(a),7.3,8,60,5,Normal,130/85,68,8000,Nenhuma
+133,Homem,38,Advogado(a),7.3,8,60,5,Normal,130/85,68,8000,Nenhuma
+134,Mulher,38,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+135,Homem,38,Advogado(a),7.3,8,60,5,Normal,130/85,68,8000,Nenhuma
+136,Homem,38,Advogado(a),7.3,8,60,5,Normal,130/85,68,8000,Nenhuma
+137,Mulher,38,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+138,Homem,38,Advogado(a),7.1,8,60,5,Normal,130/85,68,8000,Nenhuma
+139,Mulher,38,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+140,Homem,38,Advogado(a),7.1,8,60,5,Normal,130/85,68,8000,Nenhuma
+141,Mulher,38,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+142,Homem,38,Advogado(a),7.1,8,60,5,Normal,130/85,68,8000,Nenhuma
+143,Mulher,38,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+144,Mulher,38,Contador(a),7.1,8,60,4,Normal,115/75,68,7000,Nenhuma
+145,Homem,38,Advogado(a),7.1,8,60,5,Normal,130/85,68,8000,Apneia do sono
+146,Mulher,38,Advogado(a),7.4,7,60,5,Obesidade,135/88,84,3300,Apneia do sono
+147,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Insônia
+148,Homem,39,Engenheiro(a),6.5,5,40,7,Sobrepeso,132/87,80,4000,Insônia
+149,Mulher,39,Advogado(a),6.9,7,50,6,Peso normal,128/85,75,5500,Nenhuma
+150,Mulher,39,Contador(a),8.0,9,80,3,Peso normal,115/78,67,7500,Nenhuma
+151,Mulher,39,Contador(a),8.0,9,80,3,Peso normal,115/78,67,7500,Nenhuma
+152,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+153,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+154,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+155,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+156,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+157,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+158,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+159,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+160,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+161,Homem,39,Advogado(a),7.2,8,60,5,Normal,130/85,68,8000,Nenhuma
+162,Mulher,40,Contador(a),7.2,8,55,6,Peso normal,119/77,73,7300,Nenhuma
+163,Mulher,40,Contador(a),7.2,8,55,6,Peso normal,119/77,73,7300,Nenhuma
+164,Homem,40,Advogado(a),7.9,8,90,5,Normal,130/85,68,8000,Nenhuma
+165,Homem,40,Advogado(a),7.9,8,90,5,Normal,130/85,68,8000,Nenhuma
+166,Homem,41,Advogado(a),7.6,8,90,5,Normal,130/85,70,8000,Insônia
+167,Homem,41,Engenheiro(a),7.3,8,70,6,Peso normal,121/79,72,6200,Nenhuma
+168,Homem,41,Advogado(a),7.1,7,55,6,Sobrepeso,125/82,72,6000,Nenhuma
+169,Homem,41,Advogado(a),7.1,7,55,6,Sobrepeso,125/82,72,6000,Nenhuma
+170,Homem,41,Advogado(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+171,Homem,41,Advogado(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+172,Homem,41,Advogado(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+173,Homem,41,Advogado(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+174,Homem,41,Advogado(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+175,Homem,41,Advogado(a),7.6,8,90,5,Normal,130/85,70,8000,Nenhuma
+176,Homem,41,Advogado(a),7.6,8,90,5,Normal,130/85,70,8000,Nenhuma
+177,Homem,41,Advogado(a),7.6,8,90,5,Normal,130/85,70,8000,Nenhuma
+178,Homem,42,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+179,Homem,42,Advogado(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+180,Homem,42,Advogado(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+181,Homem,42,Advogado(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+182,Homem,42,Advogado(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+183,Homem,42,Advogado(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+184,Homem,42,Advogado(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+185,Mulher,42,Professor(a),6.8,6,45,7,Sobrepeso,130/85,78,5000,Apneia do sono
+186,Mulher,42,Professor(a),6.8,6,45,7,Sobrepeso,130/85,78,5000,Apneia do sono
+187,Mulher,43,Professor(a),6.7,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+188,Homem,43,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+189,Mulher,43,Professor(a),6.7,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+190,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+191,Mulher,43,Professor(a),6.7,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+192,Homem,43,Pessoa Vendendora,6.4,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+193,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+194,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+195,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+196,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+197,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+198,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+199,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+200,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+201,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+202,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Insônia
+203,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Insônia
+204,Homem,43,Engenheiro(a),6.9,6,47,7,Peso normal,117/76,69,6800,Nenhuma
+205,Homem,43,Engenheiro(a),7.6,8,75,4,Sobrepeso,122/80,68,6800,Nenhuma
+206,Homem,43,Engenheiro(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+207,Homem,43,Engenheiro(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+208,Homem,43,Engenheiro(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+209,Homem,43,Engenheiro(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+210,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+211,Homem,43,Engenheiro(a),7.7,8,90,5,Normal,130/85,70,8000,Nenhuma
+212,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+213,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+214,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+215,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+216,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+217,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+218,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Nenhuma
+219,Homem,43,Engenheiro(a),7.8,8,90,5,Normal,130/85,70,8000,Apneia do sono
+220,Homem,43,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Apneia do sono
+221,Mulher,44,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+222,Homem,44,Pessoa Vendendora,6.4,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+223,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+224,Homem,44,Pessoa Vendendora,6.4,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+225,Mulher,44,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+226,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+227,Mulher,44,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+228,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+229,Mulher,44,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+230,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+231,Mulher,44,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+232,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+233,Mulher,44,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+234,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+235,Mulher,44,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+236,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+237,Homem,44,Pessoa Vendendora,6.4,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+238,Mulher,44,Professor(a),6.5,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+239,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+240,Homem,44,Pessoa Vendendora,6.4,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+241,Mulher,44,Professor(a),6.5,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+242,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+243,Homem,44,Pessoa Vendendora,6.4,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+244,Mulher,44,Professor(a),6.5,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+245,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+246,Mulher,44,Professor(a),6.5,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+247,Homem,44,Pessoa Vendendora,6.3,6,45,7,Sobrepeso,130/85,72,6000,Insônia
+248,Homem,44,Engenheiro(a),6.8,7,45,7,Sobrepeso,130/85,78,5000,Insônia
+249,Homem,44,Pessoa Vendendora,6.4,6,45,7,Sobrepeso,130/85,72,6000,Nenhuma
+250,Homem,44,Pessoa Vendendora,6.5,6,45,7,Sobrepeso,130/85,72,6000,Nenhuma
+251,Mulher,45,Professor(a),6.8,7,30,6,Sobrepeso,135/90,65,6000,Insônia
+252,Mulher,45,Professor(a),6.8,7,30,6,Sobrepeso,135/90,65,6000,Insônia
+253,Mulher,45,Professor(a),6.5,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+254,Mulher,45,Professor(a),6.5,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+255,Mulher,45,Professor(a),6.5,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+256,Mulher,45,Professor(a),6.5,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+257,Mulher,45,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+258,Mulher,45,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+259,Mulher,45,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+260,Mulher,45,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+261,Mulher,45,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Insônia
+262,Mulher,45,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Nenhuma
+263,Mulher,45,Professor(a),6.6,7,45,4,Sobrepeso,135/90,65,6000,Nenhuma
+264,Mulher,45,Gerente,6.9,7,55,5,Sobrepeso,125/82,75,5500,Nenhuma
+265,Homem,48,Médico(a),7.3,7,65,5,Obesidade,142/92,83,3500,Insônia
+266,Mulher,48,Enfermeiro(a),5.9,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+267,Homem,48,Médico(a),7.3,7,65,5,Obesidade,142/92,83,3500,Insônia
+268,Mulher,49,Enfermeiro(a),6.2,6,90,8,Sobrepeso,140/95,75,10000,Nenhuma
+269,Mulher,49,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+270,Mulher,49,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+271,Mulher,49,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+272,Mulher,49,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+273,Mulher,49,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+274,Mulher,49,Enfermeiro(a),6.2,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+275,Mulher,49,Enfermeiro(a),6.2,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+276,Mulher,49,Enfermeiro(a),6.2,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+277,Homem,49,Médico(a),8.1,9,85,3,Obesidade,139/91,86,3700,Apneia do sono
+278,Homem,49,Médico(a),8.1,9,85,3,Obesidade,139/91,86,3700,Apneia do sono
+279,Mulher,50,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Insônia
+280,Mulher,50,Engenheiro(a),8.3,9,30,3,Normal,125/80,65,5000,Nenhuma
+281,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Nenhuma
+282,Mulher,50,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+283,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+284,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+285,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+286,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+287,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+288,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+289,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+290,Mulher,50,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+291,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+292,Mulher,50,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+293,Mulher,50,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+294,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+295,Mulher,50,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+296,Mulher,50,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+297,Mulher,50,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+298,Mulher,50,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+299,Mulher,51,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+300,Mulher,51,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+301,Mulher,51,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+302,Mulher,51,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+303,Mulher,51,Enfermeiro(a),7.1,7,55,6,Peso normal,125/82,72,6000,Nenhuma
+304,Mulher,51,Enfermeiro(a),6.0,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+305,Mulher,51,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+306,Mulher,51,Enfermeiro(a),6.1,6,90,8,Sobrepeso,140/95,75,10000,Apneia do sono
+307,Mulher,52,Contador(a),6.5,7,45,7,Sobrepeso,130/85,72,6000,Insônia
+308,Mulher,52,Contador(a),6.5,7,45,7,Sobrepeso,130/85,72,6000,Insônia
+309,Mulher,52,Contador(a),6.6,7,45,7,Sobrepeso,130/85,72,6000,Insônia
+310,Mulher,52,Contador(a),6.6,7,45,7,Sobrepeso,130/85,72,6000,Insônia
+311,Mulher,52,Contador(a),6.6,7,45,7,Sobrepeso,130/85,72,6000,Insônia
+312,Mulher,52,Contador(a),6.6,7,45,7,Sobrepeso,130/85,72,6000,Insônia
+313,Mulher,52,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+314,Mulher,52,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+315,Mulher,52,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+316,Mulher,53,Engenheiro(a),8.3,9,30,3,Normal,125/80,65,5000,Insônia
+317,Mulher,53,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+318,Mulher,53,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+319,Mulher,53,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+320,Mulher,53,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+321,Mulher,53,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+322,Mulher,53,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+323,Mulher,53,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+324,Mulher,53,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+325,Mulher,53,Engenheiro(a),8.3,9,30,3,Normal,125/80,65,5000,Nenhuma
+326,Mulher,53,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+327,Mulher,53,Engenheiro(a),8.3,9,30,3,Normal,125/80,65,5000,Nenhuma
+328,Mulher,53,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+329,Mulher,53,Engenheiro(a),8.3,9,30,3,Normal,125/80,65,5000,Nenhuma
+330,Mulher,53,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+331,Mulher,53,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+332,Mulher,53,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+333,Mulher,54,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+334,Mulher,54,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+335,Mulher,54,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+336,Mulher,54,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+337,Mulher,54,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+338,Mulher,54,Engenheiro(a),8.4,9,30,3,Normal,125/80,65,5000,Nenhuma
+339,Mulher,54,Engenheiro(a),8.5,9,30,3,Normal,125/80,65,5000,Nenhuma
+340,Mulher,55,Enfermeiro(a),8.1,9,75,4,Sobrepeso,140/95,72,5000,Apneia do sono
+341,Mulher,55,Enfermeiro(a),8.1,9,75,4,Sobrepeso,140/95,72,5000,Apneia do sono
+342,Mulher,56,Médico(a),8.2,9,90,3,Peso normal,118/75,65,10000,Nenhuma
+343,Mulher,56,Médico(a),8.2,9,90,3,Peso normal,118/75,65,10000,Nenhuma
+344,Mulher,57,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Nenhuma
+345,Mulher,57,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+346,Mulher,57,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+347,Mulher,57,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+348,Mulher,57,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+349,Mulher,57,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+350,Mulher,57,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+351,Mulher,57,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+352,Mulher,57,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+353,Mulher,58,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+354,Mulher,58,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+355,Mulher,58,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+356,Mulher,58,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+357,Mulher,58,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+358,Mulher,58,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+359,Mulher,59,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Nenhuma
+360,Mulher,59,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Nenhuma
+361,Mulher,59,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+362,Mulher,59,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+363,Mulher,59,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+364,Mulher,59,Enfermeiro(a),8.2,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+365,Mulher,59,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+366,Mulher,59,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+367,Mulher,59,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+368,Mulher,59,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+369,Mulher,59,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+370,Mulher,59,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+371,Mulher,59,Enfermeiro(a),8.0,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+372,Mulher,59,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
+373,Mulher,59,Enfermeiro(a),8.1,9,75,3,Sobrepeso,140/95,68,7000,Apneia do sono
