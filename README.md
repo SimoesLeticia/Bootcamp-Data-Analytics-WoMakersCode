@@ -3,6 +3,9 @@ Este repositório unifica as resoluções dos exercícios propostos nos módulos
 
 ## Módulos:
 
+### Estatística - Testes de Hipótese
+O objetivo principal destes exercícios consiste na análise e interpretação de dados, aplicando os conceitos estudados em aula sobre testes de hipótese. Utilizamos uma base fictícia que representa uma amostra de dados de pacientes com problemas cardíacos de um hospital.
+
 ### Estatística - Probabilidade e Amostragem
 O foco principal desses exercícios é a análise e interpretação dos dados utilizando uma base fictícia que representa uma amostra de dados da população brasileira.
 
