@@ -26,6 +26,7 @@ Este projeto utiliza as seguintes bibliotecas:
 - [Matplotlib](https://matplotlib.org/): Para criar gráficos e visualizações dos dados.
 - [Seaborn](https://seaborn.pydata.org/): Para criar visualizações estatísticas de forma simples e atraente.
 - [Sqlite3](https://docs.python.org/3/library/sqlite3.html): Para conexão com banco de dados.
+- [Scipy.Stats](https://docs.scipy.org/doc/scipy/reference/stats.html): Para funções estatísticas.
 
 ## Contribuições
 
