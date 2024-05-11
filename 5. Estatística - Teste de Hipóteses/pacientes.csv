@@ -1,0 +1,1001 @@
+,Pressao_Arterial,Idade,Genero,Etnia,Estado_Saude,Nome_Genero,Nome_Etnia,Nome_Estado_Saude
+0,142.75580946493355,31,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+1,161.8784676186195,35,1,1,0,Feminino,Afro-americano,Saudável
+2,161.50825884914804,39,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+3,144.97940826704084,43,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+4,162.50295436602667,55,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+5,153.13471301977242,66,0,0,0,Masculino,Caucasiano,Saudável
+6,150.75064291509617,52,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+7,142.3391471684426,63,0,3,0,Masculino,Asiático,Saudável
+8,148.45342271711266,57,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+9,135.92780192937366,40,0,2,0,Masculino,Hispânico,Saudável
+10,161.8639796070166,43,1,3,0,Feminino,Asiático,Saudável
+11,140.52138347732466,34,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+12,136.13082438531842,63,1,1,0,Feminino,Afro-americano,Saudável
+13,138.1891356589056,42,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+14,134.02355280200044,61,1,2,0,Feminino,Hispânico,Saudável
+15,138.54676926517652,65,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+16,154.6382979571609,67,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+17,145.64461997167507,60,0,1,0,Masculino,Afro-americano,Saudável
+18,156.86831619196465,33,0,1,0,Masculino,Afro-americano,Saudável
+19,160.0893321243566,38,1,1,0,Feminino,Afro-americano,Saudável
+20,147.98074620629853,53,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+21,136.51590910139652,67,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+22,152.7379831693249,43,0,0,0,Masculino,Caucasiano,Saudável
+23,147.9252757992166,33,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+24,150.83261820303684,57,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+25,164.30617582710585,68,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+26,139.289517213855,62,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+27,149.01314303646643,67,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+28,151.6818662274118,44,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+29,149.52865467525842,31,0,0,0,Masculino,Caucasiano,Saudável
+30,159.31788841941523,37,0,1,0,Masculino,Afro-americano,Saudável
+31,158.80744315209347,49,1,2,0,Feminino,Hispânico,Saudável
+32,150.60791581741293,39,0,3,0,Masculino,Asiático,Saudável
+33,159.14260977067593,31,1,3,0,Feminino,Asiático,Saudável
+34,151.7192726159965,30,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+35,133.52794220839365,60,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+36,168.70822405922044,41,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+37,140.57609291790757,45,0,2,0,Masculino,Hispânico,Saudável
+38,147.72328039105884,63,1,0,0,Feminino,Caucasiano,Saudável
+39,144.56577768972232,50,0,2,0,Masculino,Hispânico,Saudável
+40,143.97616026240345,40,1,1,0,Feminino,Afro-americano,Saudável
+41,160.0556461840763,64,1,0,0,Feminino,Caucasiano,Saudável
+42,142.65064916482717,65,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+43,151.7862417757855,31,0,0,0,Masculino,Caucasiano,Saudável
+44,153.26782357065215,42,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+45,145.72484109692857,52,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+46,148.81646978039694,32,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+47,145.22850827010208,44,0,1,0,Masculino,Afro-americano,Saudável
+48,162.59842199328278,34,1,2,0,Feminino,Hispânico,Saudável
+49,155.24566388012602,37,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+50,155.5242875606774,32,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+51,160.44133991993277,64,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+52,136.99099120881303,60,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+53,151.77765954049818,45,0,0,0,Masculino,Caucasiano,Saudável
+54,137.8294750580325,30,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+55,152.02186767450218,43,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+56,153.24143829652317,54,0,1,0,Masculino,Afro-americano,Saudável
+57,161.99792357020897,53,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+58,159.29445930113067,45,1,0,0,Feminino,Caucasiano,Saudável
+59,156.76363824962976,70,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+60,161.1367553500033,35,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+61,146.09618213200827,43,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+62,128.44068937610143,62,0,3,0,Masculino,Asiático,Saudável
+63,173.2907929233613,36,1,0,0,Feminino,Caucasiano,Saudável
+64,153.84885415645124,54,0,2,0,Masculino,Hispânico,Saudável
+65,143.3698952477115,42,0,3,0,Masculino,Asiático,Saudável
+66,146.9899396950865,30,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+67,158.42757703183716,45,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+68,152.5559137961639,56,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+69,129.96558003824563,67,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+70,148.9111780864056,34,1,1,0,Feminino,Afro-americano,Saudável
+71,152.25803509855524,57,1,0,0,Feminino,Caucasiano,Saudável
+72,136.64809842100274,58,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+73,156.16322091558015,51,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+74,136.93688433339614,45,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+75,150.2317651814296,39,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+76,134.99281452188404,31,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+77,147.31178333372708,66,1,0,0,Feminino,Caucasiano,Saudável
+78,142.41033636606622,66,1,3,0,Feminino,Asiático,Saudável
+79,146.4056677705119,52,0,0,0,Masculino,Caucasiano,Saudável
+80,160.28834884382098,69,1,0,0,Feminino,Caucasiano,Saudável
+81,147.35643811892967,35,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+82,156.38387959526233,41,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+83,148.07247695478216,43,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+84,172.6977491824064,63,0,3,0,Masculino,Asiático,Saudável
+85,147.74896064464062,56,1,1,0,Feminino,Afro-americano,Saudável
+86,132.33819830173985,65,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+87,139.19780627366026,60,0,0,0,Masculino,Caucasiano,Saudável
+88,145.36133643815668,45,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+89,154.48590138787688,41,1,3,0,Feminino,Asiático,Saudável
+90,160.77438186248278,57,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+91,149.8954129920991,41,1,0,0,Feminino,Caucasiano,Saudável
+92,144.4304239514193,39,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+93,151.18639190330623,42,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+94,171.63701190179648,48,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+95,142.68628759331133,68,0,1,0,Masculino,Afro-americano,Saudável
+96,153.76528006810045,41,1,2,0,Feminino,Hispânico,Saudável
+97,155.24655077768054,31,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+98,139.45772849633863,60,0,0,0,Masculino,Caucasiano,Saudável
+99,160.88271586656666,40,1,0,0,Feminino,Caucasiano,Saudável
+100,153.87400030299378,56,1,1,0,Feminino,Afro-americano,Saudável
+101,159.0982541803094,40,1,1,0,Feminino,Afro-americano,Saudável
+102,158.9074115113762,42,0,3,0,Masculino,Asiático,Saudável
+103,152.5186187992237,48,0,3,0,Masculino,Asiático,Saudável
+104,145.28807986179572,49,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+105,151.92049961221736,34,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+106,162.274718923383,43,0,1,0,Masculino,Afro-americano,Saudável
+107,142.44912914099172,67,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+108,164.31163555458417,43,0,2,0,Masculino,Hispânico,Saudável
+109,136.70528754985978,55,1,3,0,Feminino,Asiático,Saudável
+110,147.3793471553034,70,1,3,0,Feminino,Asiático,Saudável
+111,149.0015471624358,31,0,2,0,Masculino,Hispânico,Saudável
+112,147.92939356487514,57,1,2,0,Feminino,Hispânico,Saudável
+113,158.75741551172214,60,0,2,0,Masculino,Hispânico,Saudável
+114,144.48666475473544,59,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+115,137.54733908923112,44,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+116,149.09165709465248,42,0,3,0,Masculino,Asiático,Saudável
+117,153.1204297133777,62,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+118,141.0923279048663,30,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+119,151.650379735782,33,0,2,0,Masculino,Hispânico,Saudável
+120,149.83644423185592,30,0,0,0,Masculino,Caucasiano,Saudável
+121,152.62787070549706,48,1,3,0,Feminino,Asiático,Saudável
+122,152.85274636809984,62,1,2,0,Feminino,Hispânico,Saudável
+123,137.14369403016624,43,0,0,0,Masculino,Caucasiano,Saudável
+124,146.8449383594527,36,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+125,157.68838017369788,48,1,2,0,Feminino,Hispânico,Saudável
+126,144.60181566020435,63,0,2,0,Masculino,Hispânico,Saudável
+127,158.10956433138708,39,1,3,0,Feminino,Asiático,Saudável
+128,139.956055748378,45,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+129,146.14683473997448,31,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+130,136.7982370546192,33,0,2,0,Masculino,Hispânico,Saudável
+131,141.8635437633196,56,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+132,145.42388463768208,46,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+133,134.7906437508967,64,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+134,135.95335438274236,61,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+135,129.0340117343123,42,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+136,140.01616664993722,65,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+137,156.61225521604837,45,1,1,0,Feminino,Afro-americano,Saudável
+138,153.2963854562175,62,0,0,0,Masculino,Caucasiano,Saudável
+139,144.0688232672051,45,0,3,0,Masculino,Asiático,Saudável
+140,146.0012199747704,34,1,2,0,Feminino,Hispânico,Saudável
+141,144.34602129079857,42,0,3,0,Masculino,Asiático,Saudável
+142,147.2314730731706,46,0,1,0,Masculino,Afro-americano,Saudável
+143,157.89040522353704,64,1,3,0,Feminino,Asiático,Saudável
+144,141.63368378771244,54,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+145,141.55630499058944,50,0,3,0,Masculino,Asiático,Saudável
+146,157.7272538337748,69,1,0,0,Feminino,Caucasiano,Saudável
+147,145.04539522904804,55,1,2,0,Feminino,Hispânico,Saudável
+148,156.13808296091406,43,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+149,151.61439391307098,34,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+150,148.78983868355857,45,0,1,0,Masculino,Afro-americano,Saudável
+151,149.03698073689458,36,1,2,0,Feminino,Hispânico,Saudável
+152,145.18434657638477,31,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+153,144.00931680852372,48,0,2,0,Masculino,Hispânico,Saudável
+154,146.5126524015085,69,1,1,0,Feminino,Afro-americano,Saudável
+155,171.32920279169613,51,0,3,0,Masculino,Asiático,Saudável
+156,157.79973306593405,61,0,3,0,Masculino,Asiático,Saudável
+157,139.6779604053181,40,1,2,0,Feminino,Hispânico,Saudável
+158,140.5786842003079,66,0,3,0,Masculino,Asiático,Saudável
+159,149.62945295338125,45,1,2,0,Feminino,Hispânico,Saudável
+160,158.73453464183962,42,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+161,136.6662313573166,51,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+162,147.28749935346076,55,1,3,0,Feminino,Asiático,Saudável
+163,153.78915679242482,61,0,3,0,Masculino,Asiático,Saudável
+164,146.85543255783256,59,0,3,0,Masculino,Asiático,Saudável
+165,142.28069813646937,57,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+166,146.508772719621,36,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+167,139.89225660934798,42,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+168,154.88997766245353,55,1,3,0,Feminino,Asiático,Saudável
+169,145.00627172783817,64,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+170,147.60215867971664,59,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+171,154.12814195563658,50,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+172,152.53610286985904,48,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+173,136.75189721157858,51,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+174,148.27854604043566,32,1,1,0,Feminino,Afro-americano,Saudável
+175,150.77535700264238,60,1,2,0,Feminino,Hispânico,Saudável
+176,151.58977150981656,61,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+177,153.56182334221538,49,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+178,152.90577704755003,62,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+179,176.6223099103406,68,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+180,157.13835906883523,64,1,3,0,Feminino,Asiático,Saudável
+181,163.2687383478972,37,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+182,138.54135681829342,31,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+183,162.57497472008583,35,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+184,159.93929868803508,47,1,0,0,Feminino,Caucasiano,Saudável
+185,167.57445174734255,40,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+186,160.33186817615126,33,1,3,0,Feminino,Asiático,Saudável
+187,172.8482576663521,65,1,2,0,Feminino,Hispânico,Saudável
+188,156.58094285821184,60,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+189,158.08354830852122,42,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+190,129.4233055411703,42,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+191,138.37594135043207,67,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+192,144.0533599194511,36,1,2,0,Feminino,Hispânico,Saudável
+193,146.5659944371031,41,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+194,145.16449910722997,67,0,3,0,Masculino,Asiático,Saudável
+195,155.6150871053241,32,0,2,0,Masculino,Hispânico,Saudável
+196,174.999625296588,65,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+197,150.14482430880815,57,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+198,132.10227221556602,41,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+199,137.8249998642884,54,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+200,161.44396846605693,46,1,0,0,Feminino,Caucasiano,Saudável
+201,152.83794137633816,64,0,1,0,Masculino,Afro-americano,Saudável
+202,162.15952624214327,35,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+203,148.358942882673,66,1,0,0,Feminino,Caucasiano,Saudável
+204,144.86428017160364,42,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+205,161.06178425487934,44,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+206,160.54670984452065,61,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+207,147.1547050483836,53,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+208,156.1976304808474,55,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+209,151.85647703461785,36,0,3,0,Masculino,Asiático,Saudável
+210,143.64651838750737,62,1,1,0,Feminino,Afro-americano,Saudável
+211,149.40113750779096,67,0,0,0,Masculino,Caucasiano,Saudável
+212,129.4829959871529,49,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+213,157.3558900717285,64,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+214,153.30991333793526,45,1,1,0,Feminino,Afro-americano,Saudável
+215,161.10810197018807,69,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+216,161.18508566516826,38,0,0,0,Masculino,Caucasiano,Saudável
+217,157.45880070625964,60,0,2,0,Masculino,Hispânico,Saudável
+218,161.16143892182646,70,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+219,167.74760739644458,49,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+220,146.23463968551434,66,1,3,0,Feminino,Asiático,Saudável
+221,154.65876457508128,47,0,3,0,Masculino,Asiático,Saudável
+222,145.93338863299505,64,1,0,0,Feminino,Caucasiano,Saudável
+223,155.77025606380897,40,1,0,0,Feminino,Caucasiano,Saudável
+224,145.340019330511,49,0,0,0,Masculino,Caucasiano,Saudável
+225,160.6667086890519,40,0,0,0,Masculino,Caucasiano,Saudável
+226,160.40586405955537,46,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+227,168.67588090664833,35,1,0,0,Feminino,Caucasiano,Saudável
+228,149.3524544999936,38,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+229,144.17906557474748,46,0,1,0,Masculino,Afro-americano,Saudável
+230,141.036043446494,63,1,3,0,Feminino,Asiático,Saudável
+231,161.81368684248494,59,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+232,144.7778707183594,69,0,3,0,Masculino,Asiático,Saudável
+233,156.70395708159833,50,1,2,0,Feminino,Hispânico,Saudável
+234,148.03134867213706,45,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+235,158.75785419648568,68,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+236,144.34761634531463,67,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+237,164.01943442726434,52,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+238,157.79354812971445,33,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+239,152.86362575838058,42,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+240,155.8362797872561,55,1,0,0,Feminino,Caucasiano,Saudável
+241,143.7473909159504,40,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+242,169.00865081332924,54,0,1,0,Masculino,Afro-americano,Saudável
+243,166.8935759763876,56,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+244,142.90588328320413,37,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+245,160.07486324375103,49,0,0,0,Masculino,Caucasiano,Saudável
+246,149.17466340784827,64,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+247,113.71227730219073,36,0,2,0,Masculino,Hispânico,Saudável
+248,141.9702742339856,36,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+249,169.59484754648233,55,0,0,0,Masculino,Caucasiano,Saudável
+250,164.9812060585751,53,1,1,0,Feminino,Afro-americano,Saudável
+251,144.53678234883856,39,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+252,154.1750439130291,58,1,0,0,Feminino,Caucasiano,Saudável
+253,162.60859823397223,66,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+254,144.9880382622612,64,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+255,138.79248248927917,51,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+256,141.92154697019728,36,0,2,0,Masculino,Hispânico,Saudável
+257,150.47911647895927,49,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+258,137.1456623355222,60,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+259,163.05916071606623,44,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+260,137.64332753670882,37,1,1,0,Feminino,Afro-americano,Saudável
+261,152.37749905048,49,1,3,0,Feminino,Asiático,Saudável
+262,152.58448981844518,43,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+263,155.188203304266,34,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+264,134.81723950456043,30,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+265,162.0535942630099,61,0,2,0,Masculino,Hispânico,Saudável
+266,142.46758579808187,47,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+267,157.76481606648534,39,1,1,0,Feminino,Afro-americano,Saudável
+268,146.03671348500527,42,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+269,150.5517815016136,54,0,3,0,Masculino,Asiático,Saudável
+270,144.85613920422128,39,0,2,0,Masculino,Hispânico,Saudável
+271,156.4217425621653,60,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+272,142.33312056480838,67,0,1,0,Masculino,Afro-americano,Saudável
+273,155.22548746277212,30,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+274,152.59156183827943,35,0,1,0,Masculino,Afro-americano,Saudável
+275,140.00454328870617,43,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+276,148.53252157424853,57,0,1,0,Masculino,Afro-americano,Saudável
+277,147.68896889681014,67,1,0,0,Feminino,Caucasiano,Saudável
+278,146.23601221179445,45,0,0,0,Masculino,Caucasiano,Saudável
+279,145.69894579297548,59,1,0,0,Feminino,Caucasiano,Saudável
+280,157.21019024697034,35,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+281,146.70678542908578,52,1,0,0,Feminino,Caucasiano,Saudável
+282,150.33921166889198,52,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+283,160.50134174973934,41,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+284,152.64425288952063,31,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+285,142.08461649892953,46,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+286,143.93191146333731,66,0,3,0,Masculino,Asiático,Saudável
+287,133.71974875135857,69,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+288,144.76313138571962,68,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+289,154.53866547083874,31,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+290,146.06003106375817,66,1,2,0,Feminino,Hispânico,Saudável
+291,145.81747568528283,42,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+292,149.16896847167675,49,1,2,0,Feminino,Hispânico,Saudável
+293,146.80464170768477,48,1,3,0,Feminino,Asiático,Saudável
+294,144.53231192291156,59,1,1,0,Feminino,Afro-americano,Saudável
+295,135.51658937824487,58,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+296,156.45421781807968,46,0,3,0,Masculino,Asiático,Saudável
+297,145.85648173681977,56,0,1,0,Masculino,Afro-americano,Saudável
+298,147.54396850297945,47,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+299,158.2131360657845,45,0,1,0,Masculino,Afro-americano,Saudável
+300,159.33048228878252,55,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+301,159.20092550198578,38,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+302,146.47458225407374,54,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+303,158.4469933369696,63,1,2,0,Feminino,Hispânico,Saudável
+304,155.4429055791586,63,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+305,143.15823710945813,68,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+306,154.90869116225932,31,1,0,0,Feminino,Caucasiano,Saudável
+307,150.00750018939414,45,1,2,0,Feminino,Hispânico,Saudável
+308,158.12649611631434,41,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+309,149.517431338749,39,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+310,157.36989168849848,43,1,1,0,Feminino,Afro-americano,Saudável
+311,145.45025905861053,43,0,1,0,Masculino,Afro-americano,Saudável
+312,153.20815708743714,68,1,1,0,Feminino,Afro-americano,Saudável
+313,136.5013304775279,56,1,3,0,Feminino,Asiático,Saudável
+314,170.25877431686686,58,0,3,0,Masculino,Asiático,Saudável
+315,151.22105178794018,32,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+316,146.80186854937958,61,1,2,0,Feminino,Hispânico,Saudável
+317,148.0921911746068,69,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+318,148.37745534088307,46,1,2,0,Feminino,Hispânico,Saudável
+319,161.16370355131613,52,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+320,137.09255861142321,39,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+321,135.4198563509074,66,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+322,148.98191946600014,32,1,1,0,Feminino,Afro-americano,Saudável
+323,169.2415542483518,64,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+324,169.4983262298518,38,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+325,162.60127313821982,69,1,1,0,Feminino,Afro-americano,Saudável
+326,149.17913085284977,39,0,1,0,Masculino,Afro-americano,Saudável
+327,155.7258806880335,51,1,2,0,Feminino,Hispânico,Saudável
+328,136.07341529918594,57,1,2,0,Feminino,Hispânico,Saudável
+329,142.20409715179022,68,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+330,159.80814153377506,57,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+331,150.6870545528153,50,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+332,137.8620671334734,59,0,0,0,Masculino,Caucasiano,Saudável
+333,164.97461103863685,61,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+334,141.32250040675441,49,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+335,142.5460473897579,66,0,0,0,Masculino,Caucasiano,Saudável
+336,154.0303760043817,43,1,2,0,Feminino,Hispânico,Saudável
+337,153.23539804213354,40,1,0,0,Feminino,Caucasiano,Saudável
+338,155.5825744421138,40,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+339,155.79811723970926,45,1,3,0,Feminino,Asiático,Saudável
+340,153.4422876720647,44,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+341,150.860293890639,48,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+342,135.94555228272185,67,0,3,0,Masculino,Asiático,Saudável
+343,155.69927662891305,53,1,3,0,Feminino,Asiático,Saudável
+344,169.4143312363403,63,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+345,169.59121733757524,66,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+346,164.31318906496136,51,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+347,144.3503617273977,38,0,1,0,Masculino,Afro-americano,Saudável
+348,151.01073676001047,41,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+349,146.62103858070324,69,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+350,147.12126012168136,44,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+351,149.58536280188574,68,0,2,0,Masculino,Hispânico,Saudável
+352,151.42994155698588,66,0,0,0,Masculino,Caucasiano,Saudável
+353,154.55653978226638,65,0,3,0,Masculino,Asiático,Saudável
+354,152.42970644199931,57,1,1,0,Feminino,Afro-americano,Saudável
+355,144.43394198111477,46,0,3,0,Masculino,Asiático,Saudável
+356,148.9501983665657,68,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+357,167.4685720424126,53,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+358,168.38420765652376,36,1,1,0,Feminino,Afro-americano,Saudável
+359,148.0726775360181,69,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+360,162.3128384222262,54,1,1,0,Feminino,Afro-americano,Saudável
+361,151.6792807699403,33,1,1,0,Feminino,Afro-americano,Saudável
+362,140.66505683677286,65,1,0,0,Feminino,Caucasiano,Saudável
+363,143.7158106899426,44,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+364,149.41559836617415,67,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+365,149.6338635719843,62,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+366,166.52945875614617,59,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+367,150.6136721566389,59,0,2,0,Masculino,Hispânico,Saudável
+368,140.25136445705388,37,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+369,154.17876131757615,35,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+370,151.58033466759088,57,0,3,0,Masculino,Asiático,Saudável
+371,147.3533594932694,55,1,0,0,Feminino,Caucasiano,Saudável
+372,144.9890880690846,57,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+373,163.4467397978218,69,0,3,0,Masculino,Asiático,Saudável
+374,153.0181384213588,70,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+375,159.8973056359669,33,1,3,0,Feminino,Asiático,Saudável
+376,139.29765920052535,54,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+377,141.09351041887635,34,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+378,134.90674830540172,44,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+379,128.20095422275529,56,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+380,164.5058208239576,30,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+381,168.67223164974428,55,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+382,136.7857175876442,34,1,0,0,Feminino,Caucasiano,Saudável
+383,161.20134930465477,46,1,2,0,Feminino,Hispânico,Saudável
+384,164.8192914571082,57,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+385,156.4528637502054,53,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+386,147.1075951166961,63,1,0,0,Feminino,Caucasiano,Saudável
+387,140.74660658638993,33,0,2,0,Masculino,Hispânico,Saudável
+388,152.99449826581548,47,1,0,0,Feminino,Caucasiano,Saudável
+389,150.84375157905316,59,0,0,0,Masculino,Caucasiano,Saudável
+390,139.15895578646803,60,0,3,0,Masculino,Asiático,Saudável
+391,146.29638288711703,32,0,2,0,Masculino,Hispânico,Saudável
+392,150.96728535822797,51,1,1,0,Feminino,Afro-americano,Saudável
+393,135.34770105795022,38,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+394,147.2476793255634,41,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+395,142.43021597799947,35,0,1,0,Masculino,Afro-americano,Saudável
+396,154.9799849852275,34,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+397,152.76010576669665,68,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+398,177.00195441241632,57,0,1,0,Masculino,Afro-americano,Saudável
+399,134.72565802648592,69,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+400,148.277078913315,54,1,2,0,Feminino,Hispânico,Saudável
+401,143.41737454500017,50,0,1,0,Masculino,Afro-americano,Saudável
+402,156.16234109209924,68,0,1,0,Masculino,Afro-americano,Saudável
+403,142.90288871995622,31,0,0,0,Masculino,Caucasiano,Saudável
+404,160.46904635076478,47,1,0,0,Feminino,Caucasiano,Saudável
+405,160.98076896718425,34,1,1,0,Feminino,Afro-americano,Saudável
+406,157.9075826315444,58,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+407,146.56868354245327,60,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+408,150.08243138456385,32,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+409,140.12931150551967,46,0,3,0,Masculino,Asiático,Saudável
+410,141.98882687633812,56,0,1,0,Masculino,Afro-americano,Saudável
+411,150.26997464824996,33,0,2,0,Masculino,Hispânico,Saudável
+412,153.8412931062592,39,0,3,0,Masculino,Asiático,Saudável
+413,147.46296201039658,51,1,1,0,Feminino,Afro-americano,Saudável
+414,138.59967616118576,66,1,2,0,Feminino,Hispânico,Saudável
+415,145.88284631319172,33,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+416,138.2384585893653,52,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+417,155.16711388075373,37,0,0,0,Masculino,Caucasiano,Saudável
+418,132.3610407821693,41,1,2,0,Feminino,Hispânico,Saudável
+419,144.73577497082707,53,0,2,0,Masculino,Hispânico,Saudável
+420,152.69078699394203,61,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+421,150.20243114328812,31,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+422,153.67697212230814,70,0,3,0,Masculino,Asiático,Saudável
+423,162.8565181578241,33,1,1,0,Feminino,Afro-americano,Saudável
+424,127.56061673151929,33,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+425,147.71238815434467,58,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+426,143.4455587588366,56,0,2,0,Masculino,Hispânico,Saudável
+427,160.2007009750322,46,1,3,0,Feminino,Asiático,Saudável
+428,148.45989073778304,42,1,1,0,Feminino,Afro-americano,Saudável
+429,146.77846825758954,44,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+430,157.03642319572782,36,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+431,153.4956835859877,52,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+432,153.3666637059282,38,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+433,149.13428626653837,64,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+434,143.19757623039865,51,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+435,148.25863777214147,50,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+436,174.47855511216616,62,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+437,145.34314732642468,57,1,2,0,Feminino,Hispânico,Saudável
+438,172.1977307334232,47,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+439,133.79339903308002,59,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+440,147.69302270262781,70,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+441,157.71716728679257,57,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+442,158.97567396966144,35,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+443,160.51631037334548,55,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+444,138.98676175227544,57,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+445,167.11908810316456,59,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+446,122.10711745534765,47,0,1,0,Masculino,Afro-americano,Saudável
+447,155.45317426493898,41,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+448,175.37455444973818,56,0,1,0,Masculino,Afro-americano,Saudável
+449,147.79178882226478,39,0,1,0,Masculino,Afro-americano,Saudável
+450,145.65761548970318,52,0,3,0,Masculino,Asiático,Saudável
+451,151.24783130251626,49,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+452,152.5723623551915,53,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+453,148.50358733976861,70,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+454,151.54009115706882,69,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+455,141.7238394919939,38,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+456,157.261021847344,37,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+457,141.53651644481954,48,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+458,155.3723429635822,50,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+459,164.67468637651385,31,1,2,0,Feminino,Hispânico,Saudável
+460,143.82523381148619,35,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+461,143.41447377312974,68,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+462,146.69162844636554,31,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+463,162.6125013553765,70,0,2,0,Masculino,Hispânico,Saudável
+464,151.97735994144858,70,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+465,150.84479625606667,46,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+466,162.46429016273424,39,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+467,165.5520312764429,59,1,1,0,Feminino,Afro-americano,Saudável
+468,144.66002433400655,67,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+469,142.49907519896377,34,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+470,134.06914972542657,58,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+471,143.77405238773372,62,0,3,0,Masculino,Asiático,Saudável
+472,151.33427049291822,50,0,3,0,Masculino,Asiático,Saudável
+473,151.4143477587757,59,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+474,148.47696402778098,35,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+475,145.59525887632455,65,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+476,149.28406430294115,46,1,3,0,Feminino,Asiático,Saudável
+477,139.04438519686275,43,1,3,0,Feminino,Asiático,Saudável
+478,147.774788821924,54,1,0,0,Feminino,Caucasiano,Saudável
+479,141.16848058365107,48,0,2,0,Masculino,Hispânico,Saudável
+480,155.57939235994243,45,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+481,144.7122315357449,62,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+482,144.5161128459235,65,1,3,0,Feminino,Asiático,Saudável
+483,155.96639202361007,44,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+484,159.30803172679776,59,1,0,0,Feminino,Caucasiano,Saudável
+485,137.82382895318034,63,0,3,0,Masculino,Asiático,Saudável
+486,155.63682671020456,50,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+487,175.05548849991416,47,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+488,155.8743794357852,70,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+489,148.7327488640664,59,1,0,0,Feminino,Caucasiano,Saudável
+490,140.49844678076738,35,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+491,161.79537916974593,36,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+492,163.58931693726686,64,1,3,0,Feminino,Asiático,Saudável
+493,129.64493907032224,58,0,2,0,Masculino,Hispânico,Saudável
+494,149.24845629550498,65,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+495,154.15586299332736,64,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+496,146.35902142555014,69,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+497,133.92400672822885,37,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+498,149.28158417759911,51,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+499,149.45508123169972,68,0,2,0,Masculino,Hispânico,Saudável
+500,146.11980795210124,37,1,3,0,Feminino,Asiático,Saudável
+501,149.81704827656438,58,0,3,0,Masculino,Asiático,Saudável
+502,155.07719266832885,45,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+503,153.61637115726793,47,1,3,0,Feminino,Asiático,Saudável
+504,138.50001082232637,62,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+505,153.46913014465272,39,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+506,157.08592717948673,68,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+507,164.62953318773324,35,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+508,137.34983942091316,51,0,2,0,Masculino,Hispânico,Saudável
+509,165.39331417495222,36,0,3,0,Masculino,Asiático,Saudável
+510,142.91097101564645,66,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+511,153.12457738570146,37,1,0,0,Feminino,Caucasiano,Saudável
+512,132.21726965893853,46,1,3,0,Feminino,Asiático,Saudável
+513,146.26233008487972,45,0,3,0,Masculino,Asiático,Saudável
+514,165.55027669767003,60,1,0,0,Feminino,Caucasiano,Saudável
+515,153.48446461801203,62,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+516,154.4362856255051,60,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+517,151.89282820624337,48,1,3,0,Feminino,Asiático,Saudável
+518,130.18984800133165,30,1,1,0,Feminino,Afro-americano,Saudável
+519,161.11865885986995,61,0,0,0,Masculino,Caucasiano,Saudável
+520,134.50591871212512,59,0,2,0,Masculino,Hispânico,Saudável
+521,152.04119412297098,52,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+522,137.04058422424188,60,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+523,155.56826892415756,56,0,0,0,Masculino,Caucasiano,Saudável
+524,140.77103251878674,59,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+525,156.10123891838467,33,0,1,0,Masculino,Afro-americano,Saudável
+526,138.85458350543675,53,1,0,0,Feminino,Caucasiano,Saudável
+527,160.9672510455005,51,1,3,0,Feminino,Asiático,Saudável
+528,142.60792472275816,44,0,0,0,Masculino,Caucasiano,Saudável
+529,149.85994369418495,44,1,3,0,Feminino,Asiático,Saudável
+530,160.03007024027852,43,0,3,0,Masculino,Asiático,Saudável
+531,129.09041392715875,35,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+532,145.3142565201371,58,0,2,0,Masculino,Hispânico,Saudável
+533,172.4473920179985,61,1,0,0,Feminino,Caucasiano,Saudável
+534,149.7628713026735,42,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+535,149.51377769695466,55,0,2,0,Masculino,Hispânico,Saudável
+536,157.98242041948552,65,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+537,155.84555438060968,56,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+538,159.17417870706524,58,0,1,0,Masculino,Afro-americano,Saudável
+539,158.0732597169787,45,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+540,160.57422581315907,70,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+541,147.18505834665874,48,0,1,0,Masculino,Afro-americano,Saudável
+542,160.5628789097316,37,0,0,0,Masculino,Caucasiano,Saudável
+543,117.21652532483765,30,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+544,144.28649349129708,44,0,2,0,Masculino,Hispânico,Saudável
+545,155.38499478649496,42,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+546,157.33997875666145,44,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+547,150.94887183588546,66,0,2,0,Masculino,Hispânico,Saudável
+548,129.3742874132335,37,0,3,0,Masculino,Asiático,Saudável
+549,159.67462430948785,60,1,0,0,Feminino,Caucasiano,Saudável
+550,151.333243207401,54,0,2,0,Masculino,Hispânico,Saudável
+551,159.19047414071983,56,0,0,0,Masculino,Caucasiano,Saudável
+552,152.71676885006246,39,1,2,0,Feminino,Hispânico,Saudável
+553,144.98191481063398,41,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+554,152.5792213686363,67,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+555,132.07020940895956,68,1,2,0,Feminino,Hispânico,Saudável
+556,157.38232368418613,49,1,3,0,Feminino,Asiático,Saudável
+557,148.2718761551583,42,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+558,130.8174479332896,36,0,0,0,Masculino,Caucasiano,Saudável
+559,162.84221777198323,32,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+560,147.50352049407297,37,0,2,0,Masculino,Hispânico,Saudável
+561,129.91959937535387,51,1,3,0,Feminino,Asiático,Saudável
+562,154.62831241438684,49,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+563,166.0912817523921,59,1,1,0,Feminino,Afro-americano,Saudável
+564,156.89223231585981,43,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+565,153.2482427160584,61,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+566,143.65477777709577,33,1,2,0,Feminino,Hispânico,Saudável
+567,169.85873776492866,61,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+568,151.79563062919885,63,0,1,0,Masculino,Afro-americano,Saudável
+569,149.41802929369564,39,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+570,132.13074977715172,30,0,2,0,Masculino,Hispânico,Saudável
+571,151.87774102918755,57,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+572,151.87652232026002,43,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+573,136.09603427319033,59,1,1,0,Feminino,Afro-americano,Saudável
+574,176.84301272216106,36,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+575,150.80029618376088,54,0,1,0,Masculino,Afro-americano,Saudável
+576,144.41877664104638,47,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+577,168.0800338672857,67,1,2,0,Feminino,Hispânico,Saudável
+578,152.82254459746596,42,0,0,0,Masculino,Caucasiano,Saudável
+579,153.21436171421539,44,0,2,0,Masculino,Hispânico,Saudável
+580,150.01353305156152,37,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+581,156.7667118952905,52,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+582,128.12568055310518,58,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+583,149.82575004795964,50,0,3,0,Masculino,Asiático,Saudável
+584,137.2499915283489,40,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+585,130.52806996261333,67,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+586,162.64906676307308,58,1,0,0,Feminino,Caucasiano,Saudável
+587,135.37044706286062,69,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+588,145.0635676000878,64,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+589,149.90082593420567,68,0,0,0,Masculino,Caucasiano,Saudável
+590,163.66893840792085,64,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+591,160.7268520694951,32,0,1,0,Masculino,Afro-americano,Saudável
+592,116.60013111607284,34,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+593,154.66455284389954,39,1,3,0,Feminino,Asiático,Saudável
+594,159.3297965699224,66,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+595,155.44380621182472,57,1,1,0,Feminino,Afro-americano,Saudável
+596,143.77346271064346,35,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+597,152.2760897925044,63,1,1,0,Feminino,Afro-americano,Saudável
+598,151.8498650542364,48,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+599,168.08776605513543,54,1,2,0,Feminino,Hispânico,Saudável
+600,156.5855121117985,49,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+601,132.99525891213884,31,1,1,0,Feminino,Afro-americano,Saudável
+602,146.72484028204593,49,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+603,154.8212995453871,46,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+604,158.31902421048088,63,0,1,0,Masculino,Afro-americano,Saudável
+605,139.9658346473862,57,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+606,141.06703213226527,68,1,1,0,Feminino,Afro-americano,Saudável
+607,146.79136691302,44,1,2,0,Feminino,Hispânico,Saudável
+608,152.47359408937461,42,1,3,0,Feminino,Asiático,Saudável
+609,142.8572721085186,65,1,2,0,Feminino,Hispânico,Saudável
+610,158.64800197825022,33,1,0,0,Feminino,Caucasiano,Saudável
+611,121.34764666051154,37,1,2,0,Feminino,Hispânico,Saudável
+612,137.47229812954794,32,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+613,137.17917629781587,35,0,0,0,Masculino,Caucasiano,Saudável
+614,147.3758843667202,35,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+615,143.2236680740331,32,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+616,152.6677430983691,62,0,1,0,Masculino,Afro-americano,Saudável
+617,153.03137814332482,69,1,3,0,Feminino,Asiático,Saudável
+618,149.23133780145375,56,0,0,0,Masculino,Caucasiano,Saudável
+619,140.46946562558622,61,1,0,0,Feminino,Caucasiano,Saudável
+620,148.1997161894425,67,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+621,157.64650131773436,46,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+622,141.68647430068935,34,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+623,164.65818643464453,31,0,2,0,Masculino,Hispânico,Saudável
+624,150.9193336510785,38,1,3,0,Feminino,Asiático,Saudável
+625,147.38446305081018,69,1,3,0,Feminino,Asiático,Saudável
+626,152.299189463194,30,1,3,0,Feminino,Asiático,Saudável
+627,147.08869623082182,36,1,1,0,Feminino,Afro-americano,Saudável
+628,154.56833647853128,38,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+629,147.11010759579403,33,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+630,140.98957063254352,45,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+631,141.15478852935834,50,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+632,153.64345067104807,40,0,2,0,Masculino,Hispânico,Saudável
+633,153.73072066081215,43,1,0,0,Feminino,Caucasiano,Saudável
+634,143.13836624286296,51,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+635,139.08731704384815,41,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+636,157.14095607950279,38,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+637,158.62983994128788,34,1,2,0,Feminino,Hispânico,Saudável
+638,132.89286923639972,60,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+639,149.72249436384297,35,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+640,166.82853259559167,64,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+641,165.31075630591434,45,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+642,140.85618204801034,63,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+643,157.5569430232677,45,0,2,0,Masculino,Hispânico,Saudável
+644,150.52345378608186,59,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+645,123.85914243663471,57,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+646,142.6166156393421,51,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+647,150.09027534088185,69,1,0,0,Feminino,Caucasiano,Saudável
+648,151.06755859790837,42,1,0,0,Feminino,Caucasiano,Saudável
+649,153.76601505301312,59,1,2,0,Feminino,Hispânico,Saudável
+650,147.47320765944363,57,0,0,0,Masculino,Caucasiano,Saudável
+651,148.37340883824012,50,0,1,0,Masculino,Afro-americano,Saudável
+652,153.32574654243552,32,1,3,0,Feminino,Asiático,Saudável
+653,158.52197517499258,33,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+654,140.62249590654608,46,0,2,0,Masculino,Hispânico,Saudável
+655,143.8036057948364,59,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+656,157.05799851571902,30,0,0,0,Masculino,Caucasiano,Saudável
+657,156.35552334919493,55,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+658,154.47023144471203,48,1,1,0,Feminino,Afro-americano,Saudável
+659,145.17647594031683,47,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+660,156.94509092510688,35,0,3,0,Masculino,Asiático,Saudável
+661,140.10637328699025,51,0,2,0,Masculino,Hispânico,Saudável
+662,149.51212627512206,51,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+663,148.63611010296106,68,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+664,158.5008458933026,60,1,3,0,Feminino,Asiático,Saudável
+665,151.84487556126652,41,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+666,152.35861514063453,46,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+667,131.09638677193615,42,0,0,0,Masculino,Caucasiano,Saudável
+668,145.23961242307894,57,1,0,0,Feminino,Caucasiano,Saudável
+669,152.4032430185226,36,0,2,0,Masculino,Hispânico,Saudável
+670,161.99124211519566,35,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+671,145.02804674620532,67,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+672,147.57777803456605,44,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+673,153.9712887792359,36,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+674,171.67818668977623,33,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+675,146.40863260496468,30,1,2,0,Feminino,Hispânico,Saudável
+676,153.21817599182762,32,1,3,0,Feminino,Asiático,Saudável
+677,168.41480246787808,55,0,2,0,Masculino,Hispânico,Saudável
+678,155.92581983191218,32,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+679,166.39651862852443,51,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+680,137.25214759589178,39,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+681,154.2223013220177,60,1,1,0,Feminino,Afro-americano,Saudável
+682,142.75069372549584,48,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+683,150.19007819561006,56,1,2,0,Feminino,Hispânico,Saudável
+684,165.01469648029666,38,0,1,0,Masculino,Afro-americano,Saudável
+685,135.64793370388696,50,0,3,0,Masculino,Asiático,Saudável
+686,138.61672074357972,63,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+687,136.7424214512239,56,1,3,0,Feminino,Asiático,Saudável
+688,153.3317186226796,42,0,3,0,Masculino,Asiático,Saudável
+689,148.5572994726078,65,0,2,0,Masculino,Hispânico,Saudável
+690,156.2508805198022,61,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+691,156.9114128480012,48,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+692,132.0014652757351,50,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+693,166.00030553487593,61,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+694,146.64449909658566,38,1,1,0,Feminino,Afro-americano,Saudável
+695,148.02755933220405,50,0,0,0,Masculino,Caucasiano,Saudável
+696,161.15912579494983,53,0,1,0,Masculino,Afro-americano,Saudável
+697,129.7178840881678,70,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+698,142.51365811483242,45,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+699,141.62942302017922,53,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+700,152.51188553365864,59,0,0,0,Masculino,Caucasiano,Saudável
+701,154.22166672557466,55,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+702,166.49262027309024,48,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+703,153.93106400553387,49,1,2,0,Feminino,Hispânico,Saudável
+704,158.0314079334961,54,1,0,0,Feminino,Caucasiano,Saudável
+705,144.24601043292444,39,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+706,134.5281318960062,63,1,2,0,Feminino,Hispânico,Saudável
+707,144.8777691909607,50,1,1,0,Feminino,Afro-americano,Saudável
+708,134.64489013928664,53,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+709,148.77119734728905,38,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+710,147.0205703636687,41,0,3,0,Masculino,Asiático,Saudável
+711,145.70002655521287,70,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+712,163.1109811012174,63,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+713,154.46499411559827,34,0,3,0,Masculino,Asiático,Saudável
+714,150.73164422118836,40,1,1,0,Feminino,Afro-americano,Saudável
+715,144.22575882330952,39,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+716,144.60843955199104,65,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+717,153.6655480825781,35,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+718,159.85938994366694,62,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+719,143.02443197369828,58,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+720,158.05492145977314,53,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+721,169.29420662659504,66,1,2,0,Feminino,Hispânico,Saudável
+722,140.13607577139027,30,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+723,151.44883798612165,65,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+724,147.53047909236386,34,1,3,0,Feminino,Asiático,Saudável
+725,125.29611296267133,68,0,2,0,Masculino,Hispânico,Saudável
+726,148.56204818769217,62,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+727,161.2018418733351,33,0,3,0,Masculino,Asiático,Saudável
+728,149.79560092274886,60,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+729,148.80901704678124,34,0,1,0,Masculino,Afro-americano,Saudável
+730,149.9920673232939,36,1,0,0,Feminino,Caucasiano,Saudável
+731,132.5001145277593,56,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+732,166.46042798617393,67,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+733,148.77973300619075,42,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+734,143.77471810413093,51,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+735,157.56216582157043,41,0,0,0,Masculino,Caucasiano,Saudável
+736,148.1304305382567,48,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+737,147.54391492523183,60,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+738,145.13962865411514,48,0,3,0,Masculino,Asiático,Saudável
+739,136.53460563530123,42,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+740,168.81841307512533,63,1,1,0,Feminino,Afro-americano,Saudável
+741,143.61325733880903,44,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+742,112.92982068924913,66,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+743,161.0672538076006,42,1,0,0,Feminino,Caucasiano,Saudável
+744,140.4578812465577,35,0,3,0,Masculino,Asiático,Saudável
+745,170.3955951068423,32,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+746,147.0696177205377,58,0,3,0,Masculino,Asiático,Saudável
+747,155.5244946300214,50,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+748,153.19498262639513,51,1,2,0,Feminino,Hispânico,Saudável
+749,164.8201734483531,70,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+750,143.1402403862099,49,1,0,0,Feminino,Caucasiano,Saudável
+751,145.66094907923753,34,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+752,142.10512072956308,46,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+753,136.2014789058943,42,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+754,151.29953765421394,49,1,2,0,Feminino,Hispânico,Saudável
+755,143.76642653278546,44,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+756,156.4481764022048,54,0,3,0,Masculino,Asiático,Saudável
+757,160.2182857707468,61,1,2,0,Feminino,Hispânico,Saudável
+758,144.09151338824097,61,1,3,0,Feminino,Asiático,Saudável
+759,155.57095629827626,55,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+760,157.20959630756485,57,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+761,151.02580640009978,37,0,3,0,Masculino,Asiático,Saudável
+762,150.09428433477254,36,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+763,163.56933265784218,58,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+764,147.80368616106577,55,1,3,0,Feminino,Asiático,Saudável
+765,150.4635224822123,57,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+766,138.43600072806603,57,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+767,159.91004406355898,48,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+768,156.5920278418595,46,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+769,145.82057353878352,47,1,0,0,Feminino,Caucasiano,Saudável
+770,140.00314920417011,49,0,2,0,Masculino,Hispânico,Saudável
+771,145.93198549619635,51,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+772,138.43436067301252,52,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+773,154.07125500354783,42,1,2,0,Feminino,Hispânico,Saudável
+774,149.600226175305,50,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+775,150.4477253020811,38,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+776,155.23657521037538,46,0,1,0,Masculino,Afro-americano,Saudável
+777,154.487745546286,62,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+778,144.09484438905727,36,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+779,142.30559717129722,40,1,1,0,Feminino,Afro-americano,Saudável
+780,156.45766162721378,61,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+781,152.242132457272,37,0,1,0,Masculino,Afro-americano,Saudável
+782,161.7544089655161,45,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+783,153.19016835676285,55,0,1,0,Masculino,Afro-americano,Saudável
+784,144.06024013433324,66,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+785,151.3876579812127,52,0,3,0,Masculino,Asiático,Saudável
+786,150.28852832191555,50,1,2,0,Feminino,Hispânico,Saudável
+787,137.68250509218245,64,1,3,0,Feminino,Asiático,Saudável
+788,158.05606747130687,55,1,2,0,Feminino,Hispânico,Saudável
+789,136.43484327942605,54,1,3,0,Feminino,Asiático,Saudável
+790,136.43854776761654,37,0,1,0,Masculino,Afro-americano,Saudável
+791,138.71461306948703,37,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+792,154.65609331819888,39,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+793,143.3266330809085,41,0,2,0,Masculino,Hispânico,Saudável
+794,160.7377022928603,40,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+795,142.928877879118,39,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+796,149.35976318421376,57,0,2,0,Masculino,Hispânico,Saudável
+797,162.2266956832329,55,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+798,159.06138942670455,57,1,2,0,Feminino,Hispânico,Saudável
+799,143.50883945369242,68,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+800,144.31858381154257,39,0,0,0,Masculino,Caucasiano,Saudável
+801,149.29704835976437,68,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+802,152.3841223570604,33,0,1,0,Masculino,Afro-americano,Saudável
+803,158.72649551294776,35,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+804,140.06377398547784,57,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+805,156.00788912479138,38,0,3,0,Masculino,Asiático,Saudável
+806,159.0597796898094,60,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+807,137.45639307771307,70,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+808,147.5159424776581,66,0,3,0,Masculino,Asiático,Saudável
+809,136.09964365252574,52,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+810,155.1107534791599,60,0,2,0,Masculino,Hispânico,Saudável
+811,150.94680511843472,55,0,0,0,Masculino,Caucasiano,Saudável
+812,142.06163772176893,44,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+813,148.21078866877986,66,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+814,166.0517838950401,49,0,1,0,Masculino,Afro-americano,Saudável
+815,154.11444794635176,43,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+816,144.6490550071174,42,1,2,0,Feminino,Hispânico,Saudável
+817,163.01707032995145,51,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+818,148.64758132608534,33,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+819,153.4134528162944,42,0,2,0,Masculino,Hispânico,Saudável
+820,154.0472433410826,47,0,0,0,Masculino,Caucasiano,Saudável
+821,149.9190504862798,59,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+822,144.81859723981347,60,1,1,0,Feminino,Afro-americano,Saudável
+823,165.3463389103656,35,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+824,154.92599927375667,30,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+825,130.95192854054892,50,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+826,133.5918859499594,66,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+827,154.97612819267837,62,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+828,148.96898728939235,38,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+829,161.06979327816583,38,1,1,0,Feminino,Afro-americano,Saudável
+830,138.57367692042575,68,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+831,148.49479149460106,41,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+832,161.7399981007932,55,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+833,152.5341959336429,49,0,3,0,Masculino,Asiático,Saudável
+834,160.0465004719153,47,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+835,156.98974696015551,59,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+836,174.47231696937553,54,0,2,0,Masculino,Hispânico,Saudável
+837,147.88207769717204,60,0,1,0,Masculino,Afro-americano,Saudável
+838,151.61371297246794,67,1,2,0,Feminino,Hispânico,Saudável
+839,158.66442564164984,40,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+840,144.8132947027486,34,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+841,149.08249076706946,45,1,1,0,Feminino,Afro-americano,Saudável
+842,154.5985418103858,51,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+843,138.10609051879018,55,0,0,0,Masculino,Caucasiano,Saudável
+844,139.13755175203067,48,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+845,146.1636213174988,66,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+846,137.77571107024346,42,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+847,155.44563634080413,49,0,0,0,Masculino,Caucasiano,Saudável
+848,142.5904048226234,68,1,3,0,Feminino,Asiático,Saudável
+849,158.68692020595614,64,0,2,0,Masculino,Hispânico,Saudável
+850,179.5706547070117,39,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+851,166.27531378637738,57,1,3,0,Feminino,Asiático,Saudável
+852,151.73143414309007,70,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+853,161.9359620926723,62,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+854,146.39983611436375,70,1,3,0,Feminino,Asiático,Saudável
+855,149.5605005270528,35,1,2,0,Feminino,Hispânico,Saudável
+856,143.3422666843056,48,1,2,0,Feminino,Hispânico,Saudável
+857,142.29223542011277,66,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+858,152.57519910973102,51,1,2,0,Feminino,Hispânico,Saudável
+859,157.87672317307167,54,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+860,150.94853386604143,60,1,1,0,Feminino,Afro-americano,Saudável
+861,136.77654466094302,39,0,0,0,Masculino,Caucasiano,Saudável
+862,152.9904227296209,44,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+863,152.860188833285,44,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+864,153.1520179330653,33,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+865,165.6457980997418,41,0,0,0,Masculino,Caucasiano,Saudável
+866,144.51694773659895,47,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+867,154.99256046110085,36,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+868,172.67962486844604,32,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+869,150.6395585850457,47,0,3,0,Masculino,Asiático,Saudável
+870,138.049925318934,68,0,3,0,Masculino,Asiático,Saudável
+871,160.0914262934111,55,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+872,149.67569357028788,70,1,0,0,Feminino,Caucasiano,Saudável
+873,134.95425919859272,65,1,3,0,Feminino,Asiático,Saudável
+874,160.99928229066938,64,1,1,0,Feminino,Afro-americano,Saudável
+875,122.17460661353934,37,0,0,0,Masculino,Caucasiano,Saudável
+876,155.08558265688984,49,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+877,134.89810250461588,48,0,3,0,Masculino,Asiático,Saudável
+878,137.43234704998116,32,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+879,152.77503407239737,58,0,1,0,Masculino,Afro-americano,Saudável
+880,150.8131606475899,51,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+881,156.51182041133194,65,1,0,0,Feminino,Caucasiano,Saudável
+882,156.87952870353806,44,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+883,150.30192119276057,38,1,2,0,Feminino,Hispânico,Saudável
+884,156.2793514391401,42,1,1,0,Feminino,Afro-americano,Saudável
+885,149.99950863729634,49,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+886,158.52532397664757,68,0,0,0,Masculino,Caucasiano,Saudável
+887,153.52251703478004,32,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+888,163.63155159999843,46,1,2,0,Feminino,Hispânico,Saudável
+889,152.00513825618705,30,1,2,0,Feminino,Hispânico,Saudável
+890,150.3489883757037,36,0,0,0,Masculino,Caucasiano,Saudável
+891,134.75673956441506,35,0,1,0,Masculino,Afro-americano,Saudável
+892,145.15917034247212,52,0,1,0,Masculino,Afro-americano,Saudável
+893,157.791507806945,68,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+894,150.11647995063106,33,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+895,148.39970924218025,43,1,1,0,Feminino,Afro-americano,Saudável
+896,141.52673357790522,51,1,0,0,Feminino,Caucasiano,Saudável
+897,146.50255145419774,44,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+898,146.87111515105653,37,1,2,0,Feminino,Hispânico,Saudável
+899,152.76339479968976,43,1,1,0,Feminino,Afro-americano,Saudável
+900,166.64216780076225,36,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+901,165.96353364083643,34,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+902,139.50872705665114,47,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+903,155.08922105917662,41,1,1,0,Feminino,Afro-americano,Saudável
+904,150.2175758515791,68,1,1,0,Feminino,Afro-americano,Saudável
+905,137.97418565488388,36,0,0,0,Masculino,Caucasiano,Saudável
+906,162.99328523720672,58,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+907,136.31005748721392,70,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+908,153.3351727490179,51,0,3,0,Masculino,Asiático,Saudável
+909,152.94005538006556,49,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+910,141.71891778971695,70,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+911,181.80313088710068,57,0,2,0,Masculino,Hispânico,Saudável
+912,160.87975155211421,58,0,1,0,Masculino,Afro-americano,Saudável
+913,157.9238873430524,70,1,3,0,Feminino,Asiático,Saudável
+914,146.71671201653052,31,1,3,0,Feminino,Asiático,Saudável
+915,175.95274546365337,36,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+916,153.7920894370879,34,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+917,151.71444081554884,38,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+918,131.17580277965467,37,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+919,158.78523441401148,48,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+920,149.6742763998575,44,0,1,0,Masculino,Afro-americano,Saudável
+921,145.859710043301,43,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+922,152.81749345825324,51,1,1,0,Feminino,Afro-americano,Saudável
+923,158.28125363690197,47,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+924,164.8106169627041,59,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+925,155.20890188833096,40,1,1,0,Feminino,Afro-americano,Saudável
+926,151.72295316119911,33,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+927,150.03673313462235,43,0,3,0,Masculino,Asiático,Saudável
+928,151.18186080001806,50,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+929,151.86188062985212,38,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+930,154.77210263592954,60,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+931,144.03383811428526,43,0,0,0,Masculino,Caucasiano,Saudável
+932,158.38134870313496,33,1,3,0,Feminino,Asiático,Saudável
+933,144.69162690742635,52,1,3,0,Feminino,Asiático,Saudável
+934,150.21005086886944,58,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+935,144.55145439549048,35,0,2,0,Masculino,Hispânico,Saudável
+936,166.18168439735183,62,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+937,157.73878924667486,59,1,1,0,Feminino,Afro-americano,Saudável
+938,164.12294517439065,53,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+939,146.77524538232393,39,0,1,0,Masculino,Afro-americano,Saudável
+940,149.58146185321567,48,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+941,138.572218184316,36,0,1,0,Masculino,Afro-americano,Saudável
+942,150.1192639480534,46,0,3,0,Masculino,Asiático,Saudável
+943,135.82347357045285,67,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+944,144.6414676397495,37,1,1,0,Feminino,Afro-americano,Saudável
+945,152.84623976849795,34,1,0,0,Feminino,Caucasiano,Saudável
+946,179.31573884857178,50,0,1,0,Masculino,Afro-americano,Saudável
+947,144.54620930480252,52,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+948,132.04418489771095,39,0,2,0,Masculino,Hispânico,Saudável
+949,159.60473133039588,43,1,3,0,Feminino,Asiático,Saudável
+950,152.7103481368657,51,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+951,154.78436193721296,33,0,1,0,Masculino,Afro-americano,Saudável
+952,156.71782537759327,32,0,0,0,Masculino,Caucasiano,Saudável
+953,145.88462726994115,30,0,3,0,Masculino,Asiático,Saudável
+954,151.16066253831485,32,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+955,134.9220427997104,31,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+956,165.784945598289,58,0,0,0,Masculino,Caucasiano,Saudável
+957,164.68266571734333,55,0,0,0,Masculino,Caucasiano,Saudável
+958,164.68121638957282,38,0,1,0,Masculino,Afro-americano,Saudável
+959,155.81223335072823,45,1,2,0,Feminino,Hispânico,Saudável
+960,163.42903477174102,45,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+961,137.35998993203637,67,0,3,0,Masculino,Asiático,Saudável
+962,149.72628292105338,68,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+963,153.02681672287042,52,1,3,0,Feminino,Asiático,Saudável
+964,159.07756408098078,56,1,2,0,Feminino,Hispânico,Saudável
+965,151.2888347590042,54,0,2,0,Masculino,Hispânico,Saudável
+966,155.89542788798317,61,0,2,1,Masculino,Hispânico,Com condições de saúde adicionais
+967,155.82340800865023,47,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+968,153.82294308215822,63,1,2,0,Feminino,Hispânico,Saudável
+969,142.8904692730737,63,0,1,0,Masculino,Afro-americano,Saudável
+970,156.06526183522314,65,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+971,149.88133135487874,68,0,3,0,Masculino,Asiático,Saudável
+972,128.57014701220626,66,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+973,139.19416996859167,64,0,3,0,Masculino,Asiático,Saudável
+974,157.1373319767862,34,1,2,0,Feminino,Hispânico,Saudável
+975,170.38080922269936,36,1,2,0,Feminino,Hispânico,Saudável
+976,148.37218924041426,52,1,1,0,Feminino,Afro-americano,Saudável
+977,150.98167204308527,47,0,1,0,Masculino,Afro-americano,Saudável
+978,146.40258986951503,31,1,3,0,Feminino,Asiático,Saudável
+979,140.4940594067649,49,1,2,0,Feminino,Hispânico,Saudável
+980,146.96325669029846,64,1,2,1,Feminino,Hispânico,Com condições de saúde adicionais
+981,159.03886057887394,52,0,0,0,Masculino,Caucasiano,Saudável
+982,143.4999112178394,70,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+983,155.13692928189516,59,1,2,0,Feminino,Hispânico,Saudável
+984,153.16841809614527,59,1,0,0,Feminino,Caucasiano,Saudável
+985,157.95500192871424,44,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+986,134.64702214893566,46,1,1,0,Feminino,Afro-americano,Saudável
+987,162.73521199354505,35,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+988,148.19917686500946,62,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+989,159.01647137310388,63,0,0,0,Masculino,Caucasiano,Saudável
+990,163.34480765691816,50,1,1,1,Feminino,Afro-americano,Com condições de saúde adicionais
+991,171.55069408235659,32,0,1,1,Masculino,Afro-americano,Com condições de saúde adicionais
+992,156.38184691811253,69,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+993,152.1521227302531,41,0,0,1,Masculino,Caucasiano,Com condições de saúde adicionais
+994,147.66003881779818,49,1,3,1,Feminino,Asiático,Com condições de saúde adicionais
+995,136.38140435636765,58,1,0,1,Feminino,Caucasiano,Com condições de saúde adicionais
+996,161.80101168338354,41,0,3,1,Masculino,Asiático,Com condições de saúde adicionais
+997,134.39062351864848,70,0,0,0,Masculino,Caucasiano,Saudável
+998,160.81860894785734,33,1,0,0,Feminino,Caucasiano,Saudável
+999,159.87754893865775,49,0,1,0,Masculino,Afro-americano,Saudável
