@@ -3,6 +3,9 @@ Este repositório unifica as resoluções dos exercícios propostos nos módulos
 
 ## Módulos:
 
+### Estatística - Correlação e Regressão
+O foco desses exercícios é a análise e compreensão de dados, utilizando os princípios abordados em aula relativos à correlação e regressão linear.
+
 ### Estatística - Testes de Hipótese
 O objetivo principal destes exercícios consiste na análise e interpretação de dados, aplicando os conceitos estudados em aula sobre testes de hipótese. Utilizamos uma base fictícia que representa uma amostra de dados de pacientes com problemas cardíacos de um hospital.
 
