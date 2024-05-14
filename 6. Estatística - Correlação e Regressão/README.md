@@ -1,6 +1,8 @@
 # Estatística - Correlação e Regressão
 
-Este repositório contém a resolução dos exercícios propostos no desafio final do módulo **Estatística: Correlação e Regressão** do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/). O propósito desses exercícios é analisar e interpretar os dados, aplicando os conceitos de correlação e regressão linear aprendidos durante as aulas. Utilizamos dois conjuntos fictícios de dados: o primeiro contém informações detalhadas sobre propriedades imobiliárias, abrangendo características físicas, condições, localização e preços de venda. Enquanto isso, o segundo conjunto apresenta um amplo conjunto de dados sobre veículos automotivos, incluindo detalhes como marca, modelo, preço, ano de fabricação, quilometragem, tipo de combustível, transmissão e outras especificações relevantes para o mercado automotivo.
+Este repositório contém a resolução dos exercícios propostos no desafio final do módulo **Estatística: Correlação e Regressão** do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/). 
+
+O propósito desses exercícios é analisar e interpretar os dados, aplicando os conceitos de correlação e regressão linear aprendidos durante as aulas. Utilizamos dois conjuntos fictícios de dados: o primeiro contém informações detalhadas sobre propriedades imobiliárias, abrangendo características físicas, condições, localização e preços de venda. Enquanto isso, o segundo conjunto apresenta um amplo conjunto de dados sobre veículos automotivos, incluindo detalhes como marca, modelo, preço, ano de fabricação, quilometragem, tipo de combustível, transmissão e outras especificações relevantes para o mercado automotivo.
 
 ## Estrutura do Repositório
 
