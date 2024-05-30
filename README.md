@@ -3,6 +3,9 @@ Este repositório unifica as resoluções dos exercícios propostos nos módulos
 
 ## Módulos:
 
+### Estatística - Modelos de Classificação e Regressão Logística
+O foco desses exercícios é a análise e compreensão de dados, aplicando os conceitos abordados em aula sobre modelos de classificação e regressão logística.
+
 ### Estatística - Correlação e Regressão
 O foco desses exercícios é a análise e compreensão de dados, utilizando os princípios abordados em aula relativos à correlação e regressão linear.
 
@@ -30,6 +33,8 @@ Este projeto utiliza as seguintes bibliotecas:
 - [Seaborn](https://seaborn.pydata.org/): Para criar visualizações estatísticas de forma simples e atraente.
 - [Sqlite3](https://docs.python.org/3/library/sqlite3.html): Para conexão com banco de dados.
 - [Scipy.Stats](https://docs.scipy.org/doc/scipy/reference/stats.html): Para funções estatísticas.
+- [Statsmodels](https://www.statsmodels.org/stable/index.html): Para modelagem estatística.
+- [Scikit-Learn](https://scikit-learn.org/stable/): Para aprendizado de máquina.
 
 ## Contribuições
 
