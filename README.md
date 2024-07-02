@@ -3,6 +3,9 @@ Este repositório unifica as resoluções dos exercícios propostos nos módulos
 
 ## Módulos:
 
+### Análise de Dados com Google Sheets e Python
+O propósito deste desafio é analisar dados históricos de vendas para calcular métricas e prever vendas futuras utilizando Google Sheets e Python.
+
 ### Estatística - Modelos de Classificação e Regressão Logística
 O foco desses exercícios é a análise e compreensão de dados, aplicando os conceitos abordados em aula sobre modelos de classificação e regressão logística.
 
