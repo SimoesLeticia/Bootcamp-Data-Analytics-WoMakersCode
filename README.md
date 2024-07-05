@@ -35,6 +35,7 @@ O foco principal desses exercícios é a análise de dados utilizando Python.
 Este projeto utiliza as seguintes bibliotecas:
 - [Pandas](https://pandas.pydata.org/): Para manipulação e análise de dados.
 - [NumPy](https://numpy.org/): Para cálculos numéricos e operações matemáticas.
+- [Plotly](https://plotly.com/): Para criar gráficos interativos e visualizações dinâmicas.
 - [Matplotlib](https://matplotlib.org/): Para criar gráficos e visualizações dos dados.
 - [Seaborn](https://seaborn.pydata.org/): Para criar visualizações estatísticas de forma simples e atraente.
 - [Sqlite3](https://docs.python.org/3/library/sqlite3.html): Para conexão com banco de dados.
