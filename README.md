@@ -1,5 +1,5 @@
 # Bootcamp Data Analytics WoMakersCode - Resolução de Exercícios
-Este repositório unifica as resoluções dos exercícios propostos nos módulos do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/). Abaixo estão os detalhes de cada módulo.
+Este repositório unifica as resoluções dos exercícios propostos nos módulos do **Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/)**. Abaixo estão os detalhes de cada módulo.
 
 ## Módulos:
 
