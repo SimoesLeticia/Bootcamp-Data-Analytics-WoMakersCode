@@ -3,6 +3,9 @@ Este repositório unifica as resoluções dos exercícios propostos nos módulos
 
 ## Módulos:
 
+### Visualização de dados
+O objetivo deste desafio é aplicar os conceitos abordados em aula sobre visualização de dados com Python, utilizando as bibliotecas Matplotlib, Seaborn e Plotly.
+
 ### Análise de Dados com Google Sheets e Python
 O propósito deste desafio é analisar dados históricos de vendas para calcular métricas e prever vendas futuras utilizando Google Sheets e Python.
 
