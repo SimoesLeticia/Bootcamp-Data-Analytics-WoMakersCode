@@ -9,6 +9,11 @@ O propósito desses exercícios é explorar diversas formas de visualização de
 - `saude.csv`: Arquivo contendo a base de dados necessária para as análises da primeira parte do desafio. 
 - `vendas.csv`: Arquivo contendo a base de dados necessária para as análises da segunda parte do desafio. 
 - `Data_Visualization_Desafio_Final.ipynb`: Notebook contendo a resolução dos exercícios.
+- **Gráficos Interativos** (_Gráficos gerados pela biblioteca Plotly e exportados para o formato HTML_):
+    - `01_grafico_distribuicao_genero.html`
+    - `02_grafico_distribuicao_genero_faixa_etaria.html`
+    - `03_grafico_serie_temporal_vendas_diarias.html`
+    - `04_grafico_serie_temporal_vendas_acumuladas.html`
 
 ## Como Utilizar
 
