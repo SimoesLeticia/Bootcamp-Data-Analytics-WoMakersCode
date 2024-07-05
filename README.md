@@ -37,6 +37,7 @@ Este projeto utiliza as seguintes bibliotecas:
 - [NumPy](https://numpy.org/): Para cálculos numéricos e operações matemáticas.
 - [Matplotlib](https://matplotlib.org/): Para criar gráficos e visualizações dos dados.
 - [Seaborn](https://seaborn.pydata.org/): Para criar visualizações estatísticas de forma simples e atraente.
+- [Plotly](https://plotly.com/): Para criar gráficos interativos e visualizações dinâmicas.
 - [Sqlite3](https://docs.python.org/3/library/sqlite3.html): Para conexão com banco de dados.
 - [Scipy.Stats](https://docs.scipy.org/doc/scipy/reference/stats.html): Para funções estatísticas.
 - [Statsmodels](https://www.statsmodels.org/stable/index.html): Para modelagem estatística.
